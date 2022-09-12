@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\89a2b00de957f47972c4a8c87b318002\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8eacc3d03211c0207e5a6e4325e2da55\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\0e6a884e68df35a44b0d375b14ace655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\1d9ca3b67e17008491226dc01ddbf16d\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\866df6ba6a682c05f5993e0a0c0f2d3a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\93aed85226ab2716a0c8f88062ad47ce\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\12ea3d39fbfae114037fc82b33ea6f96\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\d1d0e9b841eadaae27a9a94ee1e87413\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\b28beb9c3effb16630edf0bf79941a09\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\71a201116fc19baeee674e864f445113\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8fc8c52e762289e9eefcaf678317e490\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\5767845d2e3ecfb10835bf5c40213628\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\c809b5e20443e43b32a4fcf30a7c8c98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\433cc0e5d332f2460bd508b3d85d0297\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\6fd81d4a1aae4ce091a246a22f41c045\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\853e401bf3eb4b43c9617e08ce03c555\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\9c82337662cc0774d93d0468b4307e09\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\2337a4ed9567818d31f17186cc85555b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\cf58963587bb582421143b0bb73ca0da\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\e6a11778ef1952e78c596d480530d8ef\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\acf09de03c3fbf0542f0233c824ab66c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\dec25142518fbb0e3873eac57edd49fd\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\488eea1caf5196d9db23a77ca19b85ea\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\04ac38db80e0fd08e57861fc35227919\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\dbb00f8ea8afa99e3ae654258e20fc6a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8cd8fca6354f21f56f58219751bc7774\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\6b12d8549798b72d89540154b6202a13\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\a538c2042d1a40d11440abcc5317e0a1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\89e66b77c5d61593c09b057984925709\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\c4bfd4f79dcdcc4d6ba986364cc71268\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\95170cc96d5897d6cedbc57846f34ddb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\11d9d42ce356d655db0c30d540d4a80b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\9d17d5229fc2c48ac372a153239e5156\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\de1d870c92542ec73c234a7c60a48446\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8eacc3d03211c0207e5a6e4325e2da55\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8eacc3d03211c0207e5a6e4325e2da55\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\0e6a884e68df35a44b0d375b14ace655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\0e6a884e68df35a44b0d375b14ace655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\e6a11778ef1952e78c596d480530d8ef\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\e6a11778ef1952e78c596d480530d8ef\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\488eea1caf5196d9db23a77ca19b85ea\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\488eea1caf5196d9db23a77ca19b85ea\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\e6a11778ef1952e78c596d480530d8ef\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.example.quizapp.Result
+ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:12:9-15:20
+	android:theme
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:13:13-47
+	android:name
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:12:19-41
+activity#com.example.quizapp.QuestionActivity
+ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:16:9-54
+	android:name
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:16:19-51
+activity#com.example.quizapp.MainActivity
+ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:19:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:21:13-55
+	android:theme
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\89a2b00de957f47972c4a8c87b318002\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\89a2b00de957f47972c4a8c87b318002\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8eacc3d03211c0207e5a6e4325e2da55\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8eacc3d03211c0207e5a6e4325e2da55\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\0e6a884e68df35a44b0d375b14ace655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\0e6a884e68df35a44b0d375b14ace655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\1d9ca3b67e17008491226dc01ddbf16d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\1d9ca3b67e17008491226dc01ddbf16d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\866df6ba6a682c05f5993e0a0c0f2d3a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\866df6ba6a682c05f5993e0a0c0f2d3a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\93aed85226ab2716a0c8f88062ad47ce\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\93aed85226ab2716a0c8f88062ad47ce\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\12ea3d39fbfae114037fc82b33ea6f96\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\12ea3d39fbfae114037fc82b33ea6f96\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\d1d0e9b841eadaae27a9a94ee1e87413\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\d1d0e9b841eadaae27a9a94ee1e87413\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\b28beb9c3effb16630edf0bf79941a09\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\b28beb9c3effb16630edf0bf79941a09\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\71a201116fc19baeee674e864f445113\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\71a201116fc19baeee674e864f445113\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8fc8c52e762289e9eefcaf678317e490\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8fc8c52e762289e9eefcaf678317e490\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\5767845d2e3ecfb10835bf5c40213628\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\5767845d2e3ecfb10835bf5c40213628\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\c809b5e20443e43b32a4fcf30a7c8c98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\c809b5e20443e43b32a4fcf30a7c8c98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\433cc0e5d332f2460bd508b3d85d0297\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\433cc0e5d332f2460bd508b3d85d0297\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\6fd81d4a1aae4ce091a246a22f41c045\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\6fd81d4a1aae4ce091a246a22f41c045\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\853e401bf3eb4b43c9617e08ce03c555\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\853e401bf3eb4b43c9617e08ce03c555\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\9c82337662cc0774d93d0468b4307e09\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\9c82337662cc0774d93d0468b4307e09\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\2337a4ed9567818d31f17186cc85555b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\2337a4ed9567818d31f17186cc85555b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\cf58963587bb582421143b0bb73ca0da\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\cf58963587bb582421143b0bb73ca0da\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\e6a11778ef1952e78c596d480530d8ef\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\e6a11778ef1952e78c596d480530d8ef\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\acf09de03c3fbf0542f0233c824ab66c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\acf09de03c3fbf0542f0233c824ab66c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\dec25142518fbb0e3873eac57edd49fd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\dec25142518fbb0e3873eac57edd49fd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\488eea1caf5196d9db23a77ca19b85ea\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\488eea1caf5196d9db23a77ca19b85ea\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\04ac38db80e0fd08e57861fc35227919\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\04ac38db80e0fd08e57861fc35227919\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\dbb00f8ea8afa99e3ae654258e20fc6a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\dbb00f8ea8afa99e3ae654258e20fc6a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8cd8fca6354f21f56f58219751bc7774\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\8cd8fca6354f21f56f58219751bc7774\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\6b12d8549798b72d89540154b6202a13\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\6b12d8549798b72d89540154b6202a13\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\a538c2042d1a40d11440abcc5317e0a1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\a538c2042d1a40d11440abcc5317e0a1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\89e66b77c5d61593c09b057984925709\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\89e66b77c5d61593c09b057984925709\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\c4bfd4f79dcdcc4d6ba986364cc71268\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\c4bfd4f79dcdcc4d6ba986364cc71268\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\95170cc96d5897d6cedbc57846f34ddb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\95170cc96d5897d6cedbc57846f34ddb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\11d9d42ce356d655db0c30d540d4a80b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\11d9d42ce356d655db0c30d540d4a80b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\9d17d5229fc2c48ac372a153239e5156\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\9d17d5229fc2c48ac372a153239e5156\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\de1d870c92542ec73c234a7c60a48446\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\caches\transforms-3\de1d870c92542ec73c234a7c60a48446\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harigovind.hs\Documents\GitHub\Quiz_App_Kotlin\app\src\main\AndroidManifest.xml
